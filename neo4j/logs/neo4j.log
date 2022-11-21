@@ -1,0 +1,14 @@
+2022-11-21 13:23:13.665+0000 INFO  Starting...
+2022-11-21 13:23:14.488+0000 INFO  This instance is ServerId{e824fa29} (e824fa29-8b58-4b7c-84bc-032c651d8ac9)
+2022-11-21 13:23:15.859+0000 INFO  ======== Neo4j 5.1.0 ========
+2022-11-21 13:23:25.557+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2022-11-21 13:23:26.732+0000 INFO  Remote interface available at http://localhost:7474/
+2022-11-21 13:23:26.738+0000 INFO  id: A94FC23150EBCC3BF7CF3F79A278CEA8C0BF52BC23EEF1DAF4235767E272BF0A
+2022-11-21 13:23:26.739+0000 INFO  name: system
+2022-11-21 13:23:26.741+0000 INFO  creationDate: 2022-11-21T13:23:18.127Z
+2022-11-21 13:23:26.742+0000 INFO  Started.
+2022-11-21 13:28:14.882+0000 WARN  The client is unauthorized due to authentication failure.
+2022-11-21 14:00:04.806+0000 WARN  The client is unauthorized due to authentication failure.
+2022-11-21 14:00:04.859+0000 WARN  The client is unauthorized due to authentication failure.
+2022-11-21 14:00:04.903+0000 WARN  The client has provided incorrect authentication details too many times in a row.
+2022-11-21 14:00:05.008+0000 WARN  The client has provided incorrect authentication details too many times in a row.
