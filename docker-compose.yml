@@ -70,11 +70,11 @@ services:
       - 7474:7474
       - 7687:7687
     volumes:
-      - /tmp/conf:/conf
-      - /tmp/data:/data
-      - /tmp/import:/import
-      - /tmp/logs:/logs
-      - /tmp/plugins:/plugins
+      - ./neo4j/conf:/conf
+      - ./neo4j/data:/data
+      - ./neo4j/import:/import
+      - ./neo4j/logs:/logs
+      - ./neo4j/plugins:/plugins
     environment:
       SERVICE_PRECONDITION: "hive-server:10000"
 
